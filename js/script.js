@@ -268,3 +268,4 @@ function escapeHTML(str) {
 
 // ── INIT ─────────────────────────────────────────────────────────────────────
 displayRandomFact();
+setupDateInputs(startInput, endInput);
